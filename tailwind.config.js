@@ -4,8 +4,8 @@ export default {
    theme: {
      extend: {
       backgroundImage: {
-        'uber': "url('/Uber-Layout/assets/bguber.png')",
-        'city': "url('/Uber-Layout/assets/bg-city.png')",
+        'uber': "url('../assets/bguber.png')",
+        'city': "url('../assets/bg-city.png')",
       }
      },
    },
